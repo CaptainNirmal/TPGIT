@@ -1,6 +1,6 @@
 public class Pays {
 
-	
+	// JMJ
 	//Attributs
 	private String nom;
 	private String langue;
