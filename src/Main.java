@@ -1,5 +1,5 @@
 public class Main {
-	public static void main(String[] args){
+	public static void main(String[] args){hhhhhhhhhhhhhhh
 		
 		Pays unPays = new Pays("Pays1", "langue1", "monnaie1", "capitale1");
 		Pays unAutrePays = new Pays("Pays2", "langue2", "monnaie2", "capitale2");
